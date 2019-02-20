@@ -1,0 +1,11 @@
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/bin/Debug/netcoreapp2.1/fundamentalAlgo2.deps.json
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/bin/Debug/netcoreapp2.1/fundamentalAlgo2.runtimeconfig.json
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/bin/Debug/netcoreapp2.1/fundamentalAlgo2.runtimeconfig.dev.json
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/bin/Debug/netcoreapp2.1/fundamentalAlgo2.dll
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/bin/Debug/netcoreapp2.1/fundamentalAlgo2.pdb
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.csprojAssemblyReference.cache
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.csproj.CoreCompileInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.AssemblyInfoInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.AssemblyInfo.cs
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.dll
+/Users/rabingora001/Desktop/codingDojo/c#/fundamentalAlgo2/obj/Debug/netcoreapp2.1/fundamentalAlgo2.pdb
